@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hi there, I'm Josefina
+
+**Computer Engineering student** (UBA) and **Software Developer** from Argentina.
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/josefina-iterman-16217880/)
+
+---
 
 <!--
 **jiterman/jiterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
