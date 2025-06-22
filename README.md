@@ -4,8 +4,6 @@
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/josefina-iterman-16217880/)
 
----
-
 <!--
 **jiterman/jiterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
